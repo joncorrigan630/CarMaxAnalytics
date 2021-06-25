@@ -1,10 +1,10 @@
 # CarMax-Analytics
 
 Problem Statement:
-Given historical industry sales, how can CarMax tailor it’s marketing and inventory strategies to draw in distinct segments of consumers?
+- Given historical industry sales, how can CarMax tailor it’s marketing and inventory strategies to draw in distinct segments of consumers?
 
 Dataset Description:		
-A subset of nationwide used-car purchases for 2013, with vehicle purchase information, customer demographics, and post-purchase experience. The subset should be considered representative of the US used car market. The response variable is a count of vehicles purchased by the same customer at the same dealer in the 5 following years, 2014-2018. In your data, it's labeled as "Subsequent Purchases." In all columns, a '?' symbol indicates null or missing values.		
+- A subset of nationwide used-car purchases for 2013, with vehicle purchase information, customer demographics, and post-purchase experience. The subset should be considered representative of the US used car market. The response variable is a count of vehicles purchased by the same customer at the same dealer in the 5 following years, 2014-2018. In your data, it's labeled as "Subsequent Purchases." In all columns, a '?' symbol indicates null or missing values.		
 
 Column Descriptions:
 - insert_num: Primary Index, unique for each customer and purchase	
@@ -24,10 +24,10 @@ Column Descriptions:
 - subsequent_purchases: Count of subsequent customer purchases following 2013 vehicle purchase
 
 Project Guidelines:
-Create a video. Using the dataset (found at https://github.com/kmx-analytics-showcase/2021) and your software/programming language of choice, analyze and interpret the provided data and create a compelling video that highlights your findings and proposed recommendations. The video must meet the requirements set out in the Official Rules. Create a report. Outline your work, methodology, and results in a 1-page report that meets the requirements set out in the Official Rules. Post the video. Post the video to YouTube with a privacy setting of “private.” Share the video with analyticsshowcase@carmax.com via YouTube. Send a reply email. Email the video link and the report to this email address (analyticsshowcase@carmax.com).
+- Create a video. Using the dataset (found at https://github.com/kmx-analytics-showcase/2021) and your software/programming language of choice, analyze and interpret the provided data and create a compelling video that highlights your findings and proposed recommendations. The video must meet the requirements set out in the Official Rules. Create a report. Outline your work, methodology, and results in a 1-page report that meets the requirements set out in the Official Rules. Post the video. Post the video to YouTube with a privacy setting of “private.” Share the video with analyticsshowcase@carmax.com via YouTube. Send a reply email. Email the video link and the report to this email address (analyticsshowcase@carmax.com).
 
 Submission Guidelines: 
-Videos must be wholly compliant and consistent with YouTube’s Terms of Service and Community Guidelines. All submissions must be original ideas. 
+- Videos must be wholly compliant and consistent with YouTube’s Terms of Service and Community Guidelines. All submissions must be original ideas. 
 
 Submissions can’t: 
 - Contain any third-party trademarks or copyrighted music. 
