@@ -1,7 +1,7 @@
 # CarMax-Analytics
 
 Problem Statement:
-- Given historical industry sales, how can CarMax tailor it’s marketing and inventory strategies to draw in distinct segments of consumers?
+- Given historical industry sales, how can CarMax tailor it’s marketing and inventory strategies to draw in distinct customer segments?
 
 Dataset Description:		
 - A subset of nationwide used-car purchases for 2013, with vehicle purchase information, customer demographics, and post-purchase experience. The subset should be considered representative of the US used car market. The response variable is a count of vehicles purchased by the same customer at the same dealer in the 5 following years, 2014-2018. In your data, it's labeled as "Subsequent Purchases." In all columns, a '?' symbol indicates null or missing values.		
