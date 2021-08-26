@@ -24,7 +24,7 @@ Column Descriptions:
 - subsequent_purchases: Count of subsequent customer purchases following 2013 vehicle purchase
 
 Project Guidelines:
-- Create a video. Using the dataset (found at https://github.com/kmx-analytics-showcase/2021) and your software/programming language of choice, analyze and interpret the provided data and create a compelling video that highlights your findings and proposed recommendations. The video must meet the requirements set out in the Official Rules. Create a report. Outline your work, methodology, and results in a 1-page report that meets the requirements set out in the Official Rules. Post the video. Post the video to YouTube with a privacy setting of “private.” Share the video with analyticsshowcase@carmax.com via YouTube. Send a reply email. Email the video link and the report to this email address (analyticsshowcase@carmax.com).
+- Create a video. Using the dataset (found at https://github.com/kmx-analytics-showcase/2021) and your software/programming language of choice, analyze and interpret the provided data and create a compelling video that highlights your findings and proposed recommendations. The video must meet the requirements set out in the Official Rules. Outline your work, methodology, and results in a 1-page report that meets the requirements set out in the Official Rules. Post the video to YouTube with a privacy setting of “private.” Share the video with analyticsshowcase@carmax.com via YouTube. Email the video link and the report to this email address (analyticsshowcase@carmax.com).
 
 Submission Guidelines: 
 - Videos must be wholly compliant and consistent with YouTube’s Terms of Service and Community Guidelines. All submissions must be original ideas. 
